@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "meow": "^10.1.1",
+    "puppeteer": "^10.2.0"
+  }
+}
